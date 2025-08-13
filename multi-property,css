@@ -1,4 +1,5 @@
 p {
+    /* 文字を赤色にする */
   color: red;
   font-size: 48px;
   text-align: right;
