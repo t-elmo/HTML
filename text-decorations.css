@@ -1,4 +1,4 @@
 .decoration {
   /* ここにCSSを書いていきます */
-  letter-spacing: 1.5em;
+text-decoration: underline;
 }
