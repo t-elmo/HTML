@@ -1,4 +1,4 @@
 .decoration {
   /* ここにCSSを書いていきます */
-text-decoration: line-through;
+border: solid 3px red;
 }
