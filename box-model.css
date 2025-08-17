@@ -1,4 +1,5 @@
 #second-paragraph {
-    margin: 100px;
+    padding: 10px;
+    margin: 10px;
     border: solid 5px yellow;
 }
