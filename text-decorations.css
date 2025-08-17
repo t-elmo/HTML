@@ -1,4 +1,3 @@
-.decoration {
-  /* ここにCSSを書いていきます */
-text-align: center;
+.text-bold {
+    font-weight: bold;
 }
