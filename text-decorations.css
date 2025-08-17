@@ -1,5 +1,4 @@
 .decoration {
   /* ここにCSSを書いていきます */
-border-left: dashed 3px green;
-border-right: double 3px gray;
+background-color: red;
 }
