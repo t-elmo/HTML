@@ -1,7 +1,8 @@
-#second-paragraph {
-    padding-left: 20px;
-    padding-right: 40px;
-    margin-top: 20px;
-    margin-bottom: 40px;
-    border: solid 5px yellow;
+ #first-paragraph {      
+   margin-bottom: 30px;
+   border: solid 5px yellow; 
+ }
+#second-paragraph {      
+  margin-top: 10px;
+  border: solid 5px yellow; 
 }
